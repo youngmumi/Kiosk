@@ -1,0 +1,2 @@
+# Kiosk
+html, cs, js
